@@ -1,0 +1,3809 @@
+{
+  "powerline": {
+    "owner": "somebody",
+    "name": "TR0123",
+    "identifier": "TR0123",
+    "masts": [
+      {
+        "name": "M000",
+        "identifier": "UB126",
+        "mastHeight": 16.6,
+        "mastHeading": 125.0,
+        "nextMastHeading": 172.0,
+        "lastMastHeading": 262.0,
+        "maxArmLength": 5.0000000000080895,
+        "mastType": null,
+        "position": {
+          "east": 2692799.3,
+          "north": 1229075.01,
+          "amsl": 618.2,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2692799.3,
+              "north": 1229075.01,
+              "amsl": 634.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2692799.3,
+                  "north": 1229075.01,
+                  "amsl": 634.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692799.3,
+                  "north": 1229075.01,
+                  "amsl": 634.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692799.3,
+                  "north": 1229075.01,
+                  "amsl": 634.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692799.3,
+                  "north": 1229075.01,
+                  "amsl": 634.8000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2692801.307517527,
+              "north": 1229077.877032155,
+              "amsl": 632.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 3.4999999999865903,
+            "attachments": [
+              {
+                "name": "A1-L-1.1",
+                "identifier": "A1-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692801.307517527,
+                  "north": 1229077.877032155,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692799.723088617,
+                  "north": 1229077.6543551935,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692799.723088617,
+                  "north": 1229077.6543551935,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692800.515303072,
+                  "north": 1229077.7656936743,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-L-1.2",
+                "identifier": "A1-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692801.307517527,
+                  "north": 1229077.877032155,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692801.5301944884,
+                  "north": 1229076.292603245,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692801.5301944884,
+                  "north": 1229076.292603245,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692801.418856008,
+                  "north": 1229077.0848177,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2692802.1678821817,
+              "north": 1229079.1057602214,
+              "amsl": 629.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 5.0000000000080895,
+            "attachments": [
+              {
+                "name": "A2-L-1.1",
+                "identifier": "A2-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692802.1678821817,
+                  "north": 1229079.1057602214,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692800.5834532715,
+                  "north": 1229078.88308326,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692800.5834532715,
+                  "north": 1229078.88308326,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692801.3756677266,
+                  "north": 1229078.9944217405,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-1.2",
+                "identifier": "A2-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692802.1678821817,
+                  "north": 1229079.1057602214,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692802.390559143,
+                  "north": 1229077.5213313114,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692802.390559143,
+                  "north": 1229077.5213313114,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692802.279220662,
+                  "north": 1229078.3135457663,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-2.1",
+                "identifier": "A2-L-2.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692800.7339410908,
+                  "north": 1229077.0578801108,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692799.1495121806,
+                  "north": 1229076.8352031491,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692799.1495121806,
+                  "north": 1229076.8352031491,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692799.9417266357,
+                  "north": 1229076.94654163,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-2.2",
+                "identifier": "A2-L-2.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692800.7339410908,
+                  "north": 1229077.0578801108,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692800.9566180524,
+                  "north": 1229075.4734512006,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692800.9566180524,
+                  "north": 1229075.4734512006,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692800.8452795716,
+                  "north": 1229076.2656656557,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2692797.2924824725,
+              "north": 1229072.142967845,
+              "amsl": 632.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 3.4999999999865903,
+            "attachments": [
+              {
+                "name": "A1-R-1.1",
+                "identifier": "A1-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692797.2924824725,
+                  "north": 1229072.142967845,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692795.708053563,
+                  "north": 1229071.9202908834,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692795.708053563,
+                  "north": 1229071.9202908834,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692796.500268018,
+                  "north": 1229072.0316293642,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-R-1.2",
+                "identifier": "A1-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692797.2924824725,
+                  "north": 1229072.142967845,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692797.515159434,
+                  "north": 1229070.558538935,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692797.515159434,
+                  "north": 1229070.558538935,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692797.4038209533,
+                  "north": 1229071.35075339,
+                  "amsl": 632.8000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2692796.432117818,
+              "north": 1229070.9142397786,
+              "amsl": 629.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 5.0000000000080895,
+            "attachments": [
+              {
+                "name": "A2-R-1.1",
+                "identifier": "A2-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692796.432117818,
+                  "north": 1229070.9142397786,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692794.847688908,
+                  "north": 1229070.691562817,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692794.847688908,
+                  "north": 1229070.691562817,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692795.639903363,
+                  "north": 1229070.8029012978,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-1.2",
+                "identifier": "A2-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692796.432117818,
+                  "north": 1229070.9142397786,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692796.6547947796,
+                  "north": 1229069.3298108685,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692796.6547947796,
+                  "north": 1229069.3298108685,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692796.5434562988,
+                  "north": 1229070.1220253236,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-2.1",
+                "identifier": "A2-R-2.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692797.866058909,
+                  "north": 1229072.9621198892,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692796.281629999,
+                  "north": 1229072.7394429278,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692796.281629999,
+                  "north": 1229072.7394429278,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692797.0738444543,
+                  "north": 1229072.8507814086,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-2.2",
+                "identifier": "A2-R-2.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692797.866058909,
+                  "north": 1229072.9621198892,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692798.0887358706,
+                  "north": 1229071.3776909793,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692798.0887358706,
+                  "north": 1229071.3776909793,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692797.9773973897,
+                  "north": 1229072.1699054344,
+                  "amsl": 629.8000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M001",
+        "identifier": "UB125",
+        "mastHeight": 19.4,
+        "mastHeading": 150.0,
+        "nextMastHeading": 149.0,
+        "lastMastHeading": 352.0,
+        "maxArmLength": 2.49999999981885,
+        "mastType": null,
+        "position": {
+          "east": 2692811.457,
+          "north": 1228988.653,
+          "amsl": 622.3,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2692811.457,
+              "north": 1228988.653,
+              "amsl": 641.6999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2692811.457,
+                  "north": 1228988.653,
+                  "amsl": 641.6999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692811.457,
+                  "north": 1228988.653,
+                  "amsl": 641.6999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692811.457,
+                  "north": 1228988.653,
+                  "amsl": 641.6999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692811.457,
+                  "north": 1228988.653,
+                  "amsl": 641.6999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2692813.622063509,
+              "north": 1228989.903,
+              "amsl": 640.1999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A1-L-1.1",
+                "identifier": "A1-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692813.510725029,
+                  "north": 1228990.695214455,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-L-1.2",
+                "identifier": "A1-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692814.0340939695,
+                  "north": 1228989.2172661594,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2692813.622063509,
+              "north": 1228989.903,
+              "amsl": 637.6999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A2-L-1.1",
+                "identifier": "A2-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692813.510725029,
+                  "north": 1228990.695214455,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-1.2",
+                "identifier": "A2-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692814.0340939695,
+                  "north": 1228989.2172661594,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2692813.622063509,
+              "north": 1228989.903,
+              "amsl": 635.1999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A3-L-1.1",
+                "identifier": "A3-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692813.399386548,
+                  "north": 1228991.4874289099,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692813.510725029,
+                  "north": 1228990.695214455,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-L-1.2",
+                "identifier": "A3-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692813.622063509,
+                  "north": 1228989.903,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692814.4461244293,
+                  "north": 1228988.5315323188,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692814.0340939695,
+                  "north": 1228989.2172661594,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2692809.2919364907,
+              "north": 1228987.403,
+              "amsl": 640.1999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A1-R-1.1",
+                "identifier": "A1-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.18059801,
+                  "north": 1228988.195214455,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-R-1.2",
+                "identifier": "A1-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.7039669505,
+                  "north": 1228986.7172661594,
+                  "amsl": 640.1999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2692809.2919364907,
+              "north": 1228987.403,
+              "amsl": 637.6999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A2-R-1.1",
+                "identifier": "A2-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.18059801,
+                  "north": 1228988.195214455,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-1.2",
+                "identifier": "A2-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.7039669505,
+                  "north": 1228986.7172661594,
+                  "amsl": 637.6999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2692809.2919364907,
+              "north": 1228987.403,
+              "amsl": 635.1999999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.49999999981885,
+            "attachments": [
+              {
+                "name": "A3-R-1.1",
+                "identifier": "A3-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692809.069259529,
+                  "north": 1228988.9874289099,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.18059801,
+                  "north": 1228988.195214455,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-R-1.2",
+                "identifier": "A3-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692809.2919364907,
+                  "north": 1228987.403,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692810.1159974104,
+                  "north": 1228986.0315323188,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692809.7039669505,
+                  "north": 1228986.7172661594,
+                  "amsl": 635.1999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M002",
+        "identifier": "UB124",
+        "mastHeight": 24.1,
+        "mastHeading": 141.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": 329.0,
+        "maxArmLength": 2.5000000001054756,
+        "mastType": null,
+        "position": {
+          "east": 2692876.096,
+          "north": 1228878.221,
+          "amsl": 624.15,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2692876.096,
+              "north": 1228878.221,
+              "amsl": 648.25,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2692876.096,
+                  "north": 1228878.221,
+                  "amsl": 648.25,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692876.096,
+                  "north": 1228878.221,
+                  "amsl": 648.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692876.096,
+                  "north": 1228878.221,
+                  "amsl": 648.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692876.096,
+                  "north": 1228878.221,
+                  "amsl": 648.25,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2692877.184004346,
+              "north": 1228879.1020485475,
+              "amsl": 646.75,
+              "positionType": "LV95"
+            },
+            "armLength": 1.4000000000363304,
+            "attachments": [
+              {
+                "name": "A1-L-1.1",
+                "identifier": "A1-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692877.184004346,
+                  "north": 1228879.1020485475,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692876.359943426,
+                  "north": 1228880.4735162286,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692876.359943426,
+                  "north": 1228880.4735162286,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692876.771973886,
+                  "north": 1228879.787782388,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-L-1.2",
+                "identifier": "A1-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692877.184004346,
+                  "north": 1228879.1020485475,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692878.3541702684,
+                  "north": 1228878.0108511713,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692878.3541702684,
+                  "north": 1228878.0108511713,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692877.769087307,
+                  "north": 1228878.5564498594,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2692878.0388649036,
+              "north": 1228879.7943009776,
+              "amsl": 644.25,
+              "positionType": "LV95"
+            },
+            "armLength": 2.5000000001054756,
+            "attachments": [
+              {
+                "name": "A2-L-1.1",
+                "identifier": "A2-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692878.0388649036,
+                  "north": 1228879.7943009776,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692877.2148039835,
+                  "north": 1228881.1657686587,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692877.2148039835,
+                  "north": 1228881.1657686587,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692877.626834444,
+                  "north": 1228880.4800348182,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-1.2",
+                "identifier": "A2-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692878.0388649036,
+                  "north": 1228879.7943009776,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692879.209030826,
+                  "north": 1228878.7031036015,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692879.209030826,
+                  "north": 1228878.7031036015,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692878.623947865,
+                  "north": 1228879.2487022895,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2692877.4948627306,
+              "north": 1228879.3537767038,
+              "amsl": 641.75,
+              "positionType": "LV95"
+            },
+            "armLength": 1.8000000000873102,
+            "attachments": [
+              {
+                "name": "A3-L-1.1",
+                "identifier": "A3-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692877.4948627306,
+                  "north": 1228879.3537767038,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692876.6708018105,
+                  "north": 1228880.725244385,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692876.6708018105,
+                  "north": 1228880.725244385,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692877.0828322703,
+                  "north": 1228880.0395105444,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-L-1.2",
+                "identifier": "A3-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692877.4948627306,
+                  "north": 1228879.3537767038,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692878.665028653,
+                  "north": 1228878.2625793277,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692878.665028653,
+                  "north": 1228878.2625793277,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692878.079945692,
+                  "north": 1228878.8081780158,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2692875.007995654,
+              "north": 1228877.3399514523,
+              "amsl": 646.75,
+              "positionType": "LV95"
+            },
+            "armLength": 1.4000000000363304,
+            "attachments": [
+              {
+                "name": "A1-R-1.1",
+                "identifier": "A1-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692875.007995654,
+                  "north": 1228877.3399514523,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692874.183934734,
+                  "north": 1228878.7114191335,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692874.183934734,
+                  "north": 1228878.7114191335,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692874.595965194,
+                  "north": 1228878.025685293,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-R-1.2",
+                "identifier": "A1-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692875.007995654,
+                  "north": 1228877.3399514523,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692876.1781615764,
+                  "north": 1228876.2487540764,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692876.1781615764,
+                  "north": 1228876.2487540764,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692875.593078615,
+                  "north": 1228876.7943527643,
+                  "amsl": 646.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2692874.153135096,
+              "north": 1228876.6476990222,
+              "amsl": 644.25,
+              "positionType": "LV95"
+            },
+            "armLength": 2.5000000001054756,
+            "attachments": [
+              {
+                "name": "A2-R-1.1",
+                "identifier": "A2-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692874.153135096,
+                  "north": 1228876.6476990222,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692873.3290741765,
+                  "north": 1228878.0191667033,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692873.3290741765,
+                  "north": 1228878.0191667033,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692873.7411046363,
+                  "north": 1228877.3334328628,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-1.2",
+                "identifier": "A2-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692874.153135096,
+                  "north": 1228876.6476990222,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692875.3233010187,
+                  "north": 1228875.5565016463,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692875.3233010187,
+                  "north": 1228875.5565016463,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692874.7382180574,
+                  "north": 1228876.1021003341,
+                  "amsl": 644.25,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2692874.697137269,
+              "north": 1228877.088223296,
+              "amsl": 641.75,
+              "positionType": "LV95"
+            },
+            "armLength": 1.8000000000873102,
+            "attachments": [
+              {
+                "name": "A3-R-1.1",
+                "identifier": "A3-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692874.697137269,
+                  "north": 1228877.088223296,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692873.8730763495,
+                  "north": 1228878.4596909771,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692873.8730763495,
+                  "north": 1228878.4596909771,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692874.2851068093,
+                  "north": 1228877.7739571366,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-R-1.2",
+                "identifier": "A3-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2692874.697137269,
+                  "north": 1228877.088223296,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692875.8673031917,
+                  "north": 1228875.9970259198,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692875.8673031917,
+                  "north": 1228875.9970259198,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692875.2822202304,
+                  "north": 1228876.542624608,
+                  "amsl": 641.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M003",
+        "identifier": "UB123",
+        "mastHeight": 24.6,
+        "mastHeading": 133.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": -47.0,
+        "maxArmLength": 2.499999999901939,
+        "mastType": null,
+        "position": {
+          "east": 2692993.055,
+          "north": 1228768.338,
+          "amsl": 621.0,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2692993.055,
+              "north": 1228768.338,
+              "amsl": 645.6,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2692993.055,
+                  "north": 1228768.338,
+                  "amsl": 645.6,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692993.055,
+                  "north": 1228768.338,
+                  "amsl": 645.6,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692993.055,
+                  "north": 1228768.338,
+                  "amsl": 645.6,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692993.055,
+                  "north": 1228768.338,
+                  "amsl": 645.6,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2692994.41899672,
+              "north": 1228769.8007074033,
+              "amsl": 644.85,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692994.41899672,
+                  "north": 1228769.8007074033,
+                  "amsl": 644.85,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692994.41899672,
+                  "north": 1228769.8007074033,
+                  "amsl": 643.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692994.41899672,
+                  "north": 1228769.8007074033,
+                  "amsl": 643.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692994.41899672,
+                  "north": 1228769.8007074033,
+                  "amsl": 644.05,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2692994.7599959,
+              "north": 1228770.1663842541,
+              "amsl": 642.1,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692994.7599959,
+                  "north": 1228770.1663842541,
+                  "amsl": 642.1,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692994.7599959,
+                  "north": 1228770.1663842541,
+                  "amsl": 640.5,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692994.7599959,
+                  "north": 1228770.1663842541,
+                  "amsl": 640.5,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692994.7599959,
+                  "north": 1228770.1663842541,
+                  "amsl": 641.3,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2692994.282597048,
+              "north": 1228769.6544366628,
+              "amsl": 639.6,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692994.282597048,
+                  "north": 1228769.6544366628,
+                  "amsl": 639.6,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692994.282597048,
+                  "north": 1228769.6544366628,
+                  "amsl": 638.0,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692994.282597048,
+                  "north": 1228769.6544366628,
+                  "amsl": 638.0,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692994.282597048,
+                  "north": 1228769.6544366628,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2692991.69100328,
+              "north": 1228766.8752925966,
+              "amsl": 644.85,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692991.69100328,
+                  "north": 1228766.8752925966,
+                  "amsl": 644.85,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692991.69100328,
+                  "north": 1228766.8752925966,
+                  "amsl": 643.25,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692991.69100328,
+                  "north": 1228766.8752925966,
+                  "amsl": 643.25,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692991.69100328,
+                  "north": 1228766.8752925966,
+                  "amsl": 644.05,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2692991.3500041002,
+              "north": 1228766.5096157459,
+              "amsl": 642.1,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692991.3500041002,
+                  "north": 1228766.5096157459,
+                  "amsl": 642.1,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692991.3500041002,
+                  "north": 1228766.5096157459,
+                  "amsl": 640.5,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692991.3500041002,
+                  "north": 1228766.5096157459,
+                  "amsl": 640.5,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692991.3500041002,
+                  "north": 1228766.5096157459,
+                  "amsl": 641.3,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2692991.827402952,
+              "north": 1228767.0215633372,
+              "amsl": 639.6,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2692991.827402952,
+                  "north": 1228767.0215633372,
+                  "amsl": 639.6,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2692991.827402952,
+                  "north": 1228767.0215633372,
+                  "amsl": 638.0,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2692991.827402952,
+                  "north": 1228767.0215633372,
+                  "amsl": 638.0,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2692991.827402952,
+                  "north": 1228767.0215633372,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M004",
+        "identifier": "UB122",
+        "mastHeight": 22.6,
+        "mastHeading": 133.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": -47.0,
+        "maxArmLength": 2.499999999901939,
+        "mastType": null,
+        "position": {
+          "east": 2693111.755,
+          "north": 1228656.647,
+          "amsl": 621.8,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693111.755,
+              "north": 1228656.647,
+              "amsl": 644.4,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693111.755,
+                  "north": 1228656.647,
+                  "amsl": 644.4,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693111.755,
+                  "north": 1228656.647,
+                  "amsl": 644.4,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693111.755,
+                  "north": 1228656.647,
+                  "amsl": 644.4,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693111.755,
+                  "north": 1228656.647,
+                  "amsl": 644.4,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693113.11899672,
+              "north": 1228658.1097074035,
+              "amsl": 643.65,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693113.11899672,
+                  "north": 1228658.1097074035,
+                  "amsl": 643.65,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693113.11899672,
+                  "north": 1228658.1097074035,
+                  "amsl": 642.05,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693113.11899672,
+                  "north": 1228658.1097074035,
+                  "amsl": 642.05,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693113.11899672,
+                  "north": 1228658.1097074035,
+                  "amsl": 642.8499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693113.4599959,
+              "north": 1228658.4753842542,
+              "amsl": 640.9,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693113.4599959,
+                  "north": 1228658.4753842542,
+                  "amsl": 640.9,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693113.4599959,
+                  "north": 1228658.4753842542,
+                  "amsl": 639.3,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693113.4599959,
+                  "north": 1228658.4753842542,
+                  "amsl": 639.3,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693113.4599959,
+                  "north": 1228658.4753842542,
+                  "amsl": 640.0999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693112.982597048,
+              "north": 1228657.963436663,
+              "amsl": 638.4,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693112.982597048,
+                  "north": 1228657.963436663,
+                  "amsl": 638.4,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693112.982597048,
+                  "north": 1228657.963436663,
+                  "amsl": 636.8,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693112.982597048,
+                  "north": 1228657.963436663,
+                  "amsl": 636.8,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693112.982597048,
+                  "north": 1228657.963436663,
+                  "amsl": 637.5999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693110.39100328,
+              "north": 1228655.1842925968,
+              "amsl": 643.65,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693110.39100328,
+                  "north": 1228655.1842925968,
+                  "amsl": 643.65,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693110.39100328,
+                  "north": 1228655.1842925968,
+                  "amsl": 642.05,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693110.39100328,
+                  "north": 1228655.1842925968,
+                  "amsl": 642.05,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693110.39100328,
+                  "north": 1228655.1842925968,
+                  "amsl": 642.8499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693110.0500041,
+              "north": 1228654.818615746,
+              "amsl": 640.9,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693110.0500041,
+                  "north": 1228654.818615746,
+                  "amsl": 640.9,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693110.0500041,
+                  "north": 1228654.818615746,
+                  "amsl": 639.3,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693110.0500041,
+                  "north": 1228654.818615746,
+                  "amsl": 639.3,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693110.0500041,
+                  "north": 1228654.818615746,
+                  "amsl": 640.0999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693110.527402952,
+              "north": 1228655.3305633373,
+              "amsl": 638.4,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693110.527402952,
+                  "north": 1228655.3305633373,
+                  "amsl": 638.4,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693110.527402952,
+                  "north": 1228655.3305633373,
+                  "amsl": 636.8,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693110.527402952,
+                  "north": 1228655.3305633373,
+                  "amsl": 636.8,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693110.527402952,
+                  "north": 1228655.3305633373,
+                  "amsl": 637.5999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M005",
+        "identifier": "UB121",
+        "mastHeight": 22.6,
+        "mastHeading": 133.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": -47.0,
+        "maxArmLength": 2.499999999901939,
+        "mastType": null,
+        "position": {
+          "east": 2693228.845,
+          "north": 1228546.349,
+          "amsl": 616.7,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693228.845,
+              "north": 1228546.349,
+              "amsl": 639.3000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693228.845,
+                  "north": 1228546.349,
+                  "amsl": 639.3000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693228.845,
+                  "north": 1228546.349,
+                  "amsl": 639.3000000000001,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693228.845,
+                  "north": 1228546.349,
+                  "amsl": 639.3000000000001,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693228.845,
+                  "north": 1228546.349,
+                  "amsl": 639.3000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693230.20899672,
+              "north": 1228547.8117074033,
+              "amsl": 638.5500000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693230.20899672,
+                  "north": 1228547.8117074033,
+                  "amsl": 638.5500000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693230.20899672,
+                  "north": 1228547.8117074033,
+                  "amsl": 636.95,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693230.20899672,
+                  "north": 1228547.8117074033,
+                  "amsl": 636.95,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693230.20899672,
+                  "north": 1228547.8117074033,
+                  "amsl": 637.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693230.5499959,
+              "north": 1228548.177384254,
+              "amsl": 635.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693230.5499959,
+                  "north": 1228548.177384254,
+                  "amsl": 635.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693230.5499959,
+                  "north": 1228548.177384254,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693230.5499959,
+                  "north": 1228548.177384254,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693230.5499959,
+                  "north": 1228548.177384254,
+                  "amsl": 635.0,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693230.0725970482,
+              "north": 1228547.6654366627,
+              "amsl": 633.3000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693230.0725970482,
+                  "north": 1228547.6654366627,
+                  "amsl": 633.3000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693230.0725970482,
+                  "north": 1228547.6654366627,
+                  "amsl": 631.7,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693230.0725970482,
+                  "north": 1228547.6654366627,
+                  "amsl": 631.7,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693230.0725970482,
+                  "north": 1228547.6654366627,
+                  "amsl": 632.5,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693227.4810032803,
+              "north": 1228544.8862925966,
+              "amsl": 638.5500000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693227.4810032803,
+                  "north": 1228544.8862925966,
+                  "amsl": 638.5500000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693227.4810032803,
+                  "north": 1228544.8862925966,
+                  "amsl": 636.95,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693227.4810032803,
+                  "north": 1228544.8862925966,
+                  "amsl": 636.95,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693227.4810032803,
+                  "north": 1228544.8862925966,
+                  "amsl": 637.75,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693227.1400041003,
+              "north": 1228544.5206157458,
+              "amsl": 635.8000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693227.1400041003,
+                  "north": 1228544.5206157458,
+                  "amsl": 635.8000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693227.1400041003,
+                  "north": 1228544.5206157458,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693227.1400041003,
+                  "north": 1228544.5206157458,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693227.1400041003,
+                  "north": 1228544.5206157458,
+                  "amsl": 635.0,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693227.617402952,
+              "north": 1228545.0325633371,
+              "amsl": 633.3000000000001,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693227.617402952,
+                  "north": 1228545.0325633371,
+                  "amsl": 633.3000000000001,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693227.617402952,
+                  "north": 1228545.0325633371,
+                  "amsl": 631.7,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693227.617402952,
+                  "north": 1228545.0325633371,
+                  "amsl": 631.7,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693227.617402952,
+                  "north": 1228545.0325633371,
+                  "amsl": 632.5,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M006",
+        "identifier": "UB120",
+        "mastHeight": 23.5,
+        "mastHeading": 133.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": -47.0,
+        "maxArmLength": 2.499999999901939,
+        "mastType": null,
+        "position": {
+          "east": 2693343.446,
+          "north": 1228438.47,
+          "amsl": 616.7,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693343.446,
+              "north": 1228438.47,
+              "amsl": 640.2,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693343.446,
+                  "north": 1228438.47,
+                  "amsl": 640.2,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693343.446,
+                  "north": 1228438.47,
+                  "amsl": 640.2,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693343.446,
+                  "north": 1228438.47,
+                  "amsl": 640.2,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693343.446,
+                  "north": 1228438.47,
+                  "amsl": 640.2,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693344.80999672,
+              "north": 1228439.9327074033,
+              "amsl": 639.45,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693344.80999672,
+                  "north": 1228439.9327074033,
+                  "amsl": 639.45,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693344.80999672,
+                  "north": 1228439.9327074033,
+                  "amsl": 637.85,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693344.80999672,
+                  "north": 1228439.9327074033,
+                  "amsl": 637.85,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693344.80999672,
+                  "north": 1228439.9327074033,
+                  "amsl": 638.6500000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693345.1509959,
+              "north": 1228440.298384254,
+              "amsl": 636.7,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693345.1509959,
+                  "north": 1228440.298384254,
+                  "amsl": 636.7,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693345.1509959,
+                  "north": 1228440.298384254,
+                  "amsl": 635.1,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693345.1509959,
+                  "north": 1228440.298384254,
+                  "amsl": 635.1,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693345.1509959,
+                  "north": 1228440.298384254,
+                  "amsl": 635.9000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693344.673597048,
+              "north": 1228439.7864366628,
+              "amsl": 634.2,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693344.673597048,
+                  "north": 1228439.7864366628,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693344.673597048,
+                  "north": 1228439.7864366628,
+                  "amsl": 632.6,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693344.673597048,
+                  "north": 1228439.7864366628,
+                  "amsl": 632.6,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693344.673597048,
+                  "north": 1228439.7864366628,
+                  "amsl": 633.4000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693342.08200328,
+              "north": 1228437.0072925966,
+              "amsl": 639.45,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693342.08200328,
+                  "north": 1228437.0072925966,
+                  "amsl": 639.45,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693342.08200328,
+                  "north": 1228437.0072925966,
+                  "amsl": 637.85,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693342.08200328,
+                  "north": 1228437.0072925966,
+                  "amsl": 637.85,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693342.08200328,
+                  "north": 1228437.0072925966,
+                  "amsl": 638.6500000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693341.7410041,
+              "north": 1228436.6416157458,
+              "amsl": 636.7,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693341.7410041,
+                  "north": 1228436.6416157458,
+                  "amsl": 636.7,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693341.7410041,
+                  "north": 1228436.6416157458,
+                  "amsl": 635.1,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693341.7410041,
+                  "north": 1228436.6416157458,
+                  "amsl": 635.1,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693341.7410041,
+                  "north": 1228436.6416157458,
+                  "amsl": 635.9000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693342.218402952,
+              "north": 1228437.1535633372,
+              "amsl": 634.2,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693342.218402952,
+                  "north": 1228437.1535633372,
+                  "amsl": 634.2,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693342.218402952,
+                  "north": 1228437.1535633372,
+                  "amsl": 632.6,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693342.218402952,
+                  "north": 1228437.1535633372,
+                  "amsl": 632.6,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693342.218402952,
+                  "north": 1228437.1535633372,
+                  "amsl": 633.4000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M007",
+        "identifier": "UB119",
+        "mastHeight": 25.4,
+        "mastHeading": 133.0,
+        "nextMastHeading": 133.0,
+        "lastMastHeading": -47.0,
+        "maxArmLength": 2.499999999901939,
+        "mastType": null,
+        "position": {
+          "east": 2693471.3,
+          "north": 1228318.622,
+          "amsl": 618.5,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693471.3,
+              "north": 1228318.622,
+              "amsl": 643.9,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693471.3,
+                  "north": 1228318.622,
+                  "amsl": 643.9,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693471.3,
+                  "north": 1228318.622,
+                  "amsl": 643.9,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693471.3,
+                  "north": 1228318.622,
+                  "amsl": 643.9,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693471.3,
+                  "north": 1228318.622,
+                  "amsl": 643.9,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693472.6639967198,
+              "north": 1228320.0847074033,
+              "amsl": 643.15,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693472.6639967198,
+                  "north": 1228320.0847074033,
+                  "amsl": 643.15,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693472.6639967198,
+                  "north": 1228320.0847074033,
+                  "amsl": 641.55,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693472.6639967198,
+                  "north": 1228320.0847074033,
+                  "amsl": 641.55,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693472.6639967198,
+                  "north": 1228320.0847074033,
+                  "amsl": 642.3499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693473.0049958997,
+              "north": 1228320.450384254,
+              "amsl": 640.4,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693473.0049958997,
+                  "north": 1228320.450384254,
+                  "amsl": 640.4,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693473.0049958997,
+                  "north": 1228320.450384254,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693473.0049958997,
+                  "north": 1228320.450384254,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693473.0049958997,
+                  "north": 1228320.450384254,
+                  "amsl": 639.5999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693472.527597048,
+              "north": 1228319.9384366628,
+              "amsl": 637.9,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693472.527597048,
+                  "north": 1228319.9384366628,
+                  "amsl": 637.9,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693472.527597048,
+                  "north": 1228319.9384366628,
+                  "amsl": 636.3,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693472.527597048,
+                  "north": 1228319.9384366628,
+                  "amsl": 636.3,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693472.527597048,
+                  "north": 1228319.9384366628,
+                  "amsl": 637.0999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693469.93600328,
+              "north": 1228317.1592925966,
+              "amsl": 643.15,
+              "positionType": "LV95"
+            },
+            "armLength": 1.9999999999556077,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693469.93600328,
+                  "north": 1228317.1592925966,
+                  "amsl": 643.15,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693469.93600328,
+                  "north": 1228317.1592925966,
+                  "amsl": 641.55,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693469.93600328,
+                  "north": 1228317.1592925966,
+                  "amsl": 641.55,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693469.93600328,
+                  "north": 1228317.1592925966,
+                  "amsl": 642.3499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693469.5950041,
+              "north": 1228316.7936157458,
+              "amsl": 640.4,
+              "positionType": "LV95"
+            },
+            "armLength": 2.499999999901939,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693469.5950041,
+                  "north": 1228316.7936157458,
+                  "amsl": 640.4,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693469.5950041,
+                  "north": 1228316.7936157458,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693469.5950041,
+                  "north": 1228316.7936157458,
+                  "amsl": 638.8,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693469.5950041,
+                  "north": 1228316.7936157458,
+                  "amsl": 639.5999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693470.072402952,
+              "north": 1228317.3055633372,
+              "amsl": 637.9,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999998703098,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693470.072402952,
+                  "north": 1228317.3055633372,
+                  "amsl": 637.9,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693470.072402952,
+                  "north": 1228317.3055633372,
+                  "amsl": 636.3,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693470.072402952,
+                  "north": 1228317.3055633372,
+                  "amsl": 636.3,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693470.072402952,
+                  "north": 1228317.3055633372,
+                  "amsl": 637.0999999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M008",
+        "identifier": "UB118",
+        "mastHeight": 22.3,
+        "mastHeading": 120.0,
+        "nextMastHeading": 114.0,
+        "lastMastHeading": 313.0,
+        "maxArmLength": 2.500000000020487,
+        "mastType": null,
+        "position": {
+          "east": 2693592.2,
+          "north": 1228204.34,
+          "amsl": 616.65,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693592.2,
+              "north": 1228204.34,
+              "amsl": 638.9499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693592.2,
+                  "north": 1228204.34,
+                  "amsl": 638.9499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693592.2,
+                  "north": 1228204.34,
+                  "amsl": 638.9499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693592.2,
+                  "north": 1228204.34,
+                  "amsl": 638.9499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.2,
+                  "north": 1228204.34,
+                  "amsl": 638.9499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693592.9000000004,
+              "north": 1228205.5524355653,
+              "amsl": 637.4499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 1.3999999999997537,
+            "attachments": [
+              {
+                "name": "A1-L-1.1",
+                "identifier": "A1-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693592.9000000004,
+                  "north": 1228205.5524355653,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693591.7298340774,
+                  "north": 1228206.6436329414,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693591.7298340774,
+                  "north": 1228206.6436329414,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.314917039,
+                  "north": 1228206.0980342533,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-L-1.2",
+                "identifier": "A1-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693592.9000000004,
+                  "north": 1228205.5524355653,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693594.3616727325,
+                  "north": 1228204.9016569364,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693594.3616727325,
+                  "north": 1228204.9016569364,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693593.6308363667,
+                  "north": 1228205.2270462508,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693593.45,
+              "north": 1228206.5050635096,
+              "amsl": 634.9499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.500000000020487,
+            "attachments": [
+              {
+                "name": "A2-L-1.1",
+                "identifier": "A2-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693593.45,
+                  "north": 1228206.5050635096,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693592.2798340777,
+                  "north": 1228207.5962608857,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693592.2798340777,
+                  "north": 1228207.5962608857,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.864917039,
+                  "north": 1228207.0506621976,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-L-1.2",
+                "identifier": "A2-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693593.45,
+                  "north": 1228206.5050635096,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693594.9116727323,
+                  "north": 1228205.8542848807,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693594.9116727323,
+                  "north": 1228205.8542848807,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693594.1808363665,
+                  "north": 1228206.1796741951,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693593.1,
+              "north": 1228205.8988457269,
+              "amsl": 632.4499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999999197915,
+            "attachments": [
+              {
+                "name": "A3-L-1.1",
+                "identifier": "A3-L-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693593.1,
+                  "north": 1228205.8988457269,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693591.9298340776,
+                  "north": 1228206.990043103,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693591.9298340776,
+                  "north": 1228206.990043103,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.514917039,
+                  "north": 1228206.444444415,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-L-1.2",
+                "identifier": "A3-L-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693593.1,
+                  "north": 1228205.8988457269,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693594.5616727322,
+                  "north": 1228205.248067098,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693594.5616727322,
+                  "north": 1228205.248067098,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693593.830836366,
+                  "north": 1228205.5734564124,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693591.5,
+              "north": 1228203.127564435,
+              "amsl": 637.4499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 1.3999999999997537,
+            "attachments": [
+              {
+                "name": "A1-R-1.1",
+                "identifier": "A1-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693591.5,
+                  "north": 1228203.127564435,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693590.3298340775,
+                  "north": 1228204.2187618108,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693590.3298340775,
+                  "north": 1228204.2187618108,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693590.9149170388,
+                  "north": 1228203.673163123,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A1-R-1.2",
+                "identifier": "A1-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693591.5,
+                  "north": 1228203.127564435,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693592.9616727326,
+                  "north": 1228202.4767858058,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693592.9616727326,
+                  "north": 1228202.4767858058,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.2308363663,
+                  "north": 1228202.8021751205,
+                  "amsl": 637.4499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693590.95,
+              "north": 1228202.1749364906,
+              "amsl": 634.9499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 2.500000000020487,
+            "attachments": [
+              {
+                "name": "A2-R-1.1",
+                "identifier": "A2-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693590.95,
+                  "north": 1228202.1749364906,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693589.7798340777,
+                  "north": 1228203.2661338667,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693589.7798340777,
+                  "north": 1228203.2661338667,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693590.364917039,
+                  "north": 1228202.7205351787,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A2-R-1.2",
+                "identifier": "A2-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693590.95,
+                  "north": 1228202.1749364906,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693592.4116727323,
+                  "north": 1228201.5241578617,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693592.4116727323,
+                  "north": 1228201.5241578617,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693591.6808363665,
+                  "north": 1228201.8495471762,
+                  "amsl": 634.9499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693591.3000000003,
+              "north": 1228202.7811542733,
+              "amsl": 632.4499999999999,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999999197915,
+            "attachments": [
+              {
+                "name": "A3-R-1.1",
+                "identifier": "A3-R-1.1",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693591.3000000003,
+                  "north": 1228202.7811542733,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693590.129834078,
+                  "north": 1228203.8723516495,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693590.129834078,
+                  "north": 1228203.8723516495,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693590.714917039,
+                  "north": 1228203.3267529614,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                }
+              },
+              {
+                "name": "A3-R-1.2",
+                "identifier": "A3-R-1.2",
+                "attachmentType": "Strain",
+                "attachPoint": {
+                  "east": 2693591.3000000003,
+                  "north": 1228202.7811542733,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693592.7616727324,
+                  "north": 1228202.1303756444,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693592.7616727324,
+                  "north": 1228202.1303756444,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693592.030836366,
+                  "north": 1228202.4557649589,
+                  "amsl": 632.4499999999999,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      },
+      {
+        "name": "M009",
+        "identifier": "UB117",
+        "mastHeight": 20.7,
+        "mastHeading": 114.0,
+        "nextMastHeading": 114.0,
+        "lastMastHeading": -66.0,
+        "maxArmLength": 2.4999999999857527,
+        "mastType": null,
+        "position": {
+          "east": 2693735.9,
+          "north": 1228141.7,
+          "amsl": 609.0,
+          "positionType": "LV95"
+        },
+        "arms": [
+          {
+            "name": "G1-1",
+            "identifier": "G1-1",
+            "endPoint": {
+              "east": 2693735.9,
+              "north": 1228141.7,
+              "amsl": 629.7,
+              "positionType": "LV95"
+            },
+            "armLength": 0.0,
+            "attachments": [
+              {
+                "name": "G1-1",
+                "identifier": "G1-1",
+                "attachmentType": "Ground",
+                "attachPoint": {
+                  "east": 2693735.9,
+                  "north": 1228141.7,
+                  "amsl": 629.7,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693735.9,
+                  "north": 1228141.7,
+                  "amsl": 629.7,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693735.9,
+                  "north": 1228141.7,
+                  "amsl": 629.7,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693735.9,
+                  "north": 1228141.7,
+                  "amsl": 629.7,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-L",
+            "identifier": "A1-L",
+            "endPoint": {
+              "east": 2693736.713473286,
+              "north": 1228143.5270909152,
+              "amsl": 628.95,
+              "positionType": "LV95"
+            },
+            "armLength": 1.999999999988602,
+            "attachments": [
+              {
+                "name": "A1-L-1",
+                "identifier": "A1-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693736.713473286,
+                  "north": 1228143.5270909152,
+                  "amsl": 628.95,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693736.713473286,
+                  "north": 1228143.5270909152,
+                  "amsl": 627.35,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693736.713473286,
+                  "north": 1228143.5270909152,
+                  "amsl": 627.35,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693736.713473286,
+                  "north": 1228143.5270909152,
+                  "amsl": 628.1500000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-L",
+            "identifier": "A2-L",
+            "endPoint": {
+              "east": 2693736.9168416075,
+              "north": 1228143.983863644,
+              "amsl": 626.2,
+              "positionType": "LV95"
+            },
+            "armLength": 2.4999999999857527,
+            "attachments": [
+              {
+                "name": "A2-L-1",
+                "identifier": "A2-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693736.9168416075,
+                  "north": 1228143.983863644,
+                  "amsl": 626.2,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693736.9168416075,
+                  "north": 1228143.983863644,
+                  "amsl": 624.6,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693736.9168416075,
+                  "north": 1228143.983863644,
+                  "amsl": 624.6,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693736.9168416075,
+                  "north": 1228143.983863644,
+                  "amsl": 625.4000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-L",
+            "identifier": "A3-L",
+            "endPoint": {
+              "east": 2693736.6321259574,
+              "north": 1228143.3443818237,
+              "amsl": 623.7,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999999472018,
+            "attachments": [
+              {
+                "name": "A3-L-1",
+                "identifier": "A3-L-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693736.6321259574,
+                  "north": 1228143.3443818237,
+                  "amsl": 623.7,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693736.6321259574,
+                  "north": 1228143.3443818237,
+                  "amsl": 622.1,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693736.6321259574,
+                  "north": 1228143.3443818237,
+                  "amsl": 622.1,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693736.6321259574,
+                  "north": 1228143.3443818237,
+                  "amsl": 622.9000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A1-R",
+            "identifier": "A1-R",
+            "endPoint": {
+              "east": 2693735.086526714,
+              "north": 1228139.8729090847,
+              "amsl": 628.95,
+              "positionType": "LV95"
+            },
+            "armLength": 1.999999999988602,
+            "attachments": [
+              {
+                "name": "A1-R-1",
+                "identifier": "A1-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693735.086526714,
+                  "north": 1228139.8729090847,
+                  "amsl": 628.95,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693735.086526714,
+                  "north": 1228139.8729090847,
+                  "amsl": 627.35,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693735.086526714,
+                  "north": 1228139.8729090847,
+                  "amsl": 627.35,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693735.086526714,
+                  "north": 1228139.8729090847,
+                  "amsl": 628.1500000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A2-R",
+            "identifier": "A2-R",
+            "endPoint": {
+              "east": 2693734.8831583923,
+              "north": 1228139.4161363558,
+              "amsl": 626.2,
+              "positionType": "LV95"
+            },
+            "armLength": 2.4999999999857527,
+            "attachments": [
+              {
+                "name": "A2-R-1",
+                "identifier": "A2-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693734.8831583923,
+                  "north": 1228139.4161363558,
+                  "amsl": 626.2,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693734.8831583923,
+                  "north": 1228139.4161363558,
+                  "amsl": 624.6,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693734.8831583923,
+                  "north": 1228139.4161363558,
+                  "amsl": 624.6,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693734.8831583923,
+                  "north": 1228139.4161363558,
+                  "amsl": 625.4000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          },
+          {
+            "name": "A3-R",
+            "identifier": "A3-R",
+            "endPoint": {
+              "east": 2693735.1678740424,
+              "north": 1228140.0556181762,
+              "amsl": 623.7,
+              "positionType": "LV95"
+            },
+            "armLength": 1.7999999999472018,
+            "attachments": [
+              {
+                "name": "A3-R-1",
+                "identifier": "A3-R-1",
+                "attachmentType": "Suspension",
+                "attachPoint": {
+                  "east": 2693735.1678740424,
+                  "north": 1228140.0556181762,
+                  "amsl": 623.7,
+                  "positionType": "LV95"
+                },
+                "wireAttachPoint": {
+                  "east": 2693735.1678740424,
+                  "north": 1228140.0556181762,
+                  "amsl": 622.1,
+                  "positionType": "LV95"
+                },
+                "aheadLowPoint": {
+                  "east": 2693735.1678740424,
+                  "north": 1228140.0556181762,
+                  "amsl": 622.1,
+                  "positionType": "LV95"
+                },
+                "position": {
+                  "east": 2693735.1678740424,
+                  "north": 1228140.0556181762,
+                  "amsl": 622.9000000000001,
+                  "positionType": "LV95"
+                }
+              }
+            ]
+          }
+        ],
+        "sphereBalls": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+    "type": "object",
+    "properties": {
+        "powerline": {
+            "$ref": "#/$defs/powerline"
+        }
+    },
+    "$defs": {
+        "powerline": {
+            "type": "object",
+            "properties": {
+                "owner": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "identifier": {
+                    "type": "string"
+                },
+                "masts": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/mast"
+                    }
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "owner",
+                "name",
+                "identifier"
+            ]
+        },
+        "mast": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "identifier": {
+                    "type": "string"
+                },
+                "mastHeight": {
+                    "type": "number"
+                },
+                "mastHeading": {
+                    "type": "number"
+                },
+                "nextMastHeading": {
+                    "type": "number"
+                },
+                "lastMastHeading": {
+                    "type": "number"
+                },
+                "maxArmLength": {
+                    "type": "number"
+                },
+                "mastType": {
+                    "type": [
+                        "object",
+                        "null"
+                    ]
+                },
+                "position": {
+                    "$ref": "#/$defs/position"
+                },
+                "arms": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/arm"
+                    }
+                },
+                "sphereBalls": {
+                    "type": "array"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "name",
+                "identifier",
+                "mastHeight",
+                "mastHeading",
+                "nextMastHeading",
+                "lastMastHeading",
+                "maxArmLength",
+                "mastType"
+            ]
+        },
+        "arm": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "identifier": {
+                    "type": "string"
+                },
+                "endPoint": {
+                    "$ref": "#/$defs/position"
+                },
+                "armLength": {
+                    "type": "number"
+                },
+                "attachments": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/attachments"
+                    }
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "name",
+                "identifier",
+                "endPoint",
+                "armLength",
+                "attachments"
+            ]
+        },
+        "attachments": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "identifier": {
+                    "type": "string"
+                },
+                "attachmentType": {
+                    "enum": [
+                        "Strain",
+                        "Ground",
+                        "Suspension"
+                    ]
+                },
+                "attachPoint": {
+                    "$ref": "#/$defs/position"
+                },
+                "wireAttachPoint": {
+                    "$ref": "#/$defs/position"
+                },
+                "aheadLowPoint": {
+                    "$ref": "#/$defs/position"
+                },
+                "position": {
+                    "$ref": "#/$defs/position"
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "name",
+                "identifier",
+                "attachmentType",
+                "attachPoint",
+                "wireAttachPoint",
+                "aheadLowPoint",
+                "position"
+            ]
+        },
+        "position": {
+            "oneOf": [
+                {
+                    "$ref": "#/$defs/lv95Position"
+                }
+            ]
+        },
+        "lv95Position": {
+            "type": "object",
+            "properties": {
+                "east": {
+                    "type": "number"
+                },
+                "north": {
+                    "type": "number"
+                },
+                "amsl": {
+                    "type": "number"
+                },
+                "positionType": {
+                    "enum": [
+                        "LV95"
+                    ]
+                }
+            },
+            "additionalProperties": false,
+            "required": [
+                "east",
+                "north",
+                "amsl",
+                "positionType"
+            ]
+        }
+    }
+}
